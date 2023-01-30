@@ -15,7 +15,7 @@
   我相信你们人手一堆教育邮箱，这个网站风控还行 
 ![](http://tu.yaohuo.me/imgs/2020/06/ed0e944eec323a16.png)
 
-# Github Actions说明
+# Github Actions说明1
 ## 一、Fork此仓库
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
